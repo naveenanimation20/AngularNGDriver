@@ -6,6 +6,11 @@ import org.testng.annotations.Test;
 
 import pages.CalculatorPage;
 
+/**
+ * 
+ * @author NaveenKhunteta
+ *
+ */
 public class CalTest {
 	
 	CalculatorPage calPage;

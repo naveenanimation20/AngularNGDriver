@@ -12,6 +12,11 @@ import com.paulhammant.ngwebdriver.NgWebDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
+/**
+ * 
+ * @author NaveenKhunteta
+ *
+ */
 public class CalculatorPage {
 
 	WebDriver driver;
